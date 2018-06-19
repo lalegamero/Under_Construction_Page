@@ -11,7 +11,7 @@ To use this starter project, you'll need the following things installed on your 
 
 1. [**NodeJS**](https://nodejs.org/en/) in order to run javascript on the console, you can go to the NodeJS site and follow trough the installation process.
 2. After you get the node command on the console you will have the node package manager [**npm**](https://www.npmjs.com/get-npm) as well.
-3. Now you need to install [Gulp](https://github.com/gulpjs/gulp): `npm install -g gulp`
+3. Now you need to install [**Gulp**](https://github.com/gulpjs/gulp): `npm install -g gulp`
 
 Gulp is the one that will run all the compilation, watchers and others tasks.
 
