@@ -29,7 +29,7 @@ This will give you file watching, browser synchronisation, auto-rebuild, CSS inj
 
 After that go ahead and follow these steps:
 
-1. Edit index.html in order to change the <title> and the <h1>.
+1. Edit index.html.
 2. Optionally, modify the elements and the style according to your needs.
 3. Upload the file to the root directory of your website, or configure your GitHub Pages site.
 
