@@ -2,7 +2,7 @@
 
 This is a simple HTML document, designed to be used as a temporary home page when developing a website. This is a great way to start a web development project.
 
-This starter project is also a collection of things/plugins I have learned over the years and code snippets I have created and other that were collected from other people who are smarter than me to make soemthing I really enjoy using.
+This starter project is also a collection of things/plugins I have learned over the years and code snippets I have created and other that were collected from other people who are smarter than me to make something I really enjoy using.
 
 ***
 ## System Preparation
