@@ -1,0 +1,21 @@
+/*
+	TEAM
+*/
+Design, Markup, Code, Good Intentions: Your name
+Site: http://www.your-site.com
+Github: http://www.github.com/yourprofile
+Location: Where do you live?
+
+/*
+	SITE + TECHNOLOGY
+*/
+
+Built With:
+HTML (HTML5 Doctype), CSS (Sass), Jekyll, Media Queries, JavaScript (a touch of jQuery)
+More: http://builtwith.com/yoursite.com
+
+Software:
+Affinity Photo, Illustrator, Atom, ImageOptim, web browsers, Github, Wunderlist.
+
+Language:
+English
